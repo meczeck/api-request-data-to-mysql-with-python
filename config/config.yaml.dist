@@ -4,4 +4,4 @@ mysql:
     passwd: password
     db: Database-name
 
-api_key: xxxxxxxxxxxxxxxxxx(Your_api_key_here)
+api_key: xxxxxxxxxxxxxxxxx(Your_api_key_here)
