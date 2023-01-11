@@ -1,0 +1,7 @@
+mysql:
+    host: hostname
+    user: username
+    passwd: password
+    db: Database-name
+
+api_key: xxxxxxxxxxxxxxxxxx(Your_api_key_here)
